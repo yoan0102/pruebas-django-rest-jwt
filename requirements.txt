@@ -2,3 +2,4 @@ cloudinary
 Django==3.2
 djangorestframework
 djangorestframework-simplejwt
+drf-yasg
